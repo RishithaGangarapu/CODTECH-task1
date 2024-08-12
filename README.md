@@ -2,6 +2,7 @@
 Name: Gangarapu Rishitha
 Company: CODTECH IT SOLUTIONS
 ID: CT08DS3907
+Domain: Machine Learning
 Duration: July to August 2024
 Mentor: Neela Santhosh Kumar
 
